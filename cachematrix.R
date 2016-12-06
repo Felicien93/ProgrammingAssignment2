@@ -1,6 +1,6 @@
 ## This is an implementation of a matrix with is inverse cached in memory
 
-## This first function creates the "object" cached matrix. It is a list of all the function that manipulate it
+## This first function creates the "object" cached matrix. It is a list of all the functions that manipulate it
 
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
